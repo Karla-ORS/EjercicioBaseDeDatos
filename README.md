@@ -22,4 +22,4 @@ Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql
 
 Este proyecto consiste en importar una base de datos de ejemplo, generar su diagrama EER, realizar consultas SQL con JOINs para obtener información completa por cliente y crear una vista (`VIEW`) con dicha consulta.
 
-![Diagrama EER](classicmodel.png)
+![Diagrama EER](https://raw.githubusercontent.com/Karla-ORS/EjercicioBaseDeDatos/refs/heads/main/classicmodels.png)
